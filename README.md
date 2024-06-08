@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm od8m</h1>
-<h3 align="center">A German developer skilled in low-level coding, cheats, cracks, and reverse engineering.</h3>
+<h3 align="center">A developer skilled in low-level coding, cheats, cracks, and reverse engineering.</h3>
 
 <p align="left"> <a href="https://twitter.com/od8m_" target="blank"><img src="https://img.shields.io/twitter/follow/od8m_?logo=twitter&style=for-the-badge" alt="od8m_" /></a> </p>
 

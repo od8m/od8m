@@ -3,5 +3,5 @@
   
   *i code sometimes<br> never claimed it was good*
   
-  [**website**](https://xmpp.space) • [**email**](mailto:od8m@od8m.lol) • [**telegram**](https://t.me/Od8mCracks)
+  [**website**](https://od8m.lol) • [**email**](mailto:admin@xmpp.space) • [**telegram**](https://t.me/Od8mCracks)
 </div>
